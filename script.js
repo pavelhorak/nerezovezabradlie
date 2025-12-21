@@ -1,8 +1,3 @@
-const images = [
-Here is the updated JavaScript array with the img/ prefix added to each path:
-
-JavaScript
-
 const imageFiles = [
   "img/30415693_1821378184560751_1485485336346755072_n.jpg",
   "img/487019199_1145943307227973_8901633528539201162_n.jpg",
